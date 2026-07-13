@@ -1,0 +1,6 @@
+{
+  "name": "Fresh Spice Restaurant",
+  "description": "A professional and interactive website for Fresh Spice Restaurant in Hyderabad, India, featuring an exquisite menu explorer, online reservation simulator, quick-lunch customizer, and detailed story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
